@@ -2,3 +2,4 @@ Digite seu e-mail:
 Digita sua senha:
 Digite sua idade:
 Digite sua data de nascimento:
+Digite seu endereço :
